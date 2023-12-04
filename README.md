@@ -1,2 +1,2 @@
 # MPChecker
-Identifiaction of asteroids with SkyBot
+Identification of asteroids with SkyBot
